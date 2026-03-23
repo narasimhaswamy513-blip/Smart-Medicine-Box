@@ -6,8 +6,8 @@
 // ---------- Firebase Config ----------
 #define FIREBASE_HOST "..................."
 #define FIREBASE_AUTH "..................."
-#define WIFI_SSID "Rakesh"
-#define WIFI_PASSWORD "22222222"
+#define WIFI_SSID "......................."
+#define WIFI_PASSWORD "..................."
 
 // ---------- RTC ----------
 RTC_DS3231 rtc;
